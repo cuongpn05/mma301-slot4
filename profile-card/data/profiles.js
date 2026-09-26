@@ -1,0 +1,32 @@
+export const PROFILES = [
+  {
+    id: '1',
+    name: 'Nguyễn Văn Cường',
+    role: 'Mobile Developer',
+    email: 'cuong.nguyen@example.com',
+    phone: '0987 654 321',
+    avatar: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&auto=format&fit=crop&q=80',
+    bio: 'Đam mê lập trình React Native và thiết kế UI/UX hiện đại.',
+    skills: ['React Native', 'JavaScript', 'Expo', 'UI/UX'],
+  },
+  {
+    id: '2',
+    name: 'Trần Thị Mai',
+    role: 'Frontend Engineer',
+    email: 'mai.tran@example.com',
+    phone: '0912 345 678',
+    avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=80',
+    bio: 'Yêu thích xây dựng giao diện người dùng mượt mà và tương tác.',
+    skills: ['React', 'TypeScript', 'Tailwind', 'Figma'],
+  },
+  {
+    id: '3',
+    name: 'Lê Hoàng Long',
+    role: 'Backend & Cloud Specialist',
+    email: 'long.le@example.com',
+    phone: '0909 123 456',
+    avatar: 'https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=400&auto=format&fit=crop&q=80',
+    bio: 'Chuyên gia kiến trúc hệ thống và microservices hiệu năng cao.',
+    skills: ['Node.js', 'PostgreSQL', 'Docker', 'AWS'],
+  },
+];
